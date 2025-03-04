@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitballari&label=Profile%20views&color=0e75b6&style=flat" alt="rohitballari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitballari" alt="rohitballari" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science And Analytics**
 
 - 📫 How to reach me **rohitballari7@gmail.com**
