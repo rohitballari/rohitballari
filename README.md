@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coder GIF" height="250" width="350" src="./assets/coder-3d.gif" />
+<img align="right" alt="Rohit Ballari" width="150" src="https://github.com/rohitballari.png?size=300" />
 
 ```python
 class RohitBallari:
