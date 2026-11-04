@@ -99,25 +99,25 @@ class RohitBallari:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitballari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitballari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=rohitballari&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitballari&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
+<br/><br/>
+
+<a href="https://github.com/rohitballari?tab=followers"><img src="https://img.shields.io/github/followers/rohitballari?style=for-the-badge&logo=github&color=0e75b6&labelColor=0d1117" alt="Followers" /></a>
+<a href="https://github.com/rohitballari?tab=repositories"><img src="https://img.shields.io/badge/Public%20repos-7-00c9a7?style=for-the-badge&logo=github&labelColor=0d1117" alt="Public repos" /></a>
+<a href="https://github.com/rohitballari/Machine_Learning"><img src="https://img.shields.io/github/last-commit/rohitballari/Machine_Learning?style=for-the-badge&label=Last%20commit&color=0e75b6&labelColor=0d1117" alt="Last commit" /></a>
+
+**Most used languages**
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Contribution graph**
+
+<img src="https://ghchart.rshah.org/00c9a7/rohitballari" alt="Rohit's GitHub contribution graph" width="90%" />
 
 </div>
-
----
-
-## 🎯 Roadmap
-
-- [x] Learn SQL, Excel and Python fundamentals
-- [x] Practice data cleaning and analysis with Pandas
-- [x] Start exploring Machine Learning with scikit-learn
-- [ ] Build end-to-end data analysis projects with dashboards (Power BI / Tableau)
-- [ ] Publish case studies and write-ups on Medium
-- [ ] Land a Data Analyst internship
 
 ---
 
