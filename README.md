@@ -25,10 +25,12 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coder GIF" height="250" width="350" src="./assets/coder-3d.gif" />
+
 ```python
 class RohitBallari:
     def __init__(self):
-        self.role      = "Aspiring Data Analyst Intern"
+        self.role      = "Aspiring Data Analyst / Junior Data Scientist"
         self.location  = "Bangalore, India"
         self.focus     = ["Data Analysis", "Data Visualization", "Machine Learning"]
         self.core_stack = ["SQL", "Excel", "Python", "Pandas"]
@@ -36,10 +38,10 @@ class RohitBallari:
         self.writes_at = "medium.com/@rohitballari7"
 
     def current_goal(self):
-        return "Land a Data Analyst internship and grow into Data Science"
+        return "Land an entry-level Data Analyst / Junior Data Scientist role"
 
     def open_to(self):
-        return ["Internships", "Collaborations", "Learning with others"]
+        return ["Entry-level roles", "Collaborations", "Learning with others"]
 ```
 
 - 🌱 Currently learning **Data Science & Analytics**
@@ -47,6 +49,17 @@ class RohitBallari:
 - 🤖 Building foundations in **Machine Learning** with scikit-learn
 - ✍️ I write about what I learn on [Medium](https://medium.com/@rohitballari7)
 - 📫 Reach me at **rohitballari7@gmail.com**
+
+---
+
+## 🎯 Currently Focused On
+
+- 🗄️ Getting stronger at **SQL** for querying and analysing data
+- 📊 Using **Excel** for data cleaning and reporting
+- 🐍 Analysing and visualizing data with **Python, Pandas and Seaborn**
+- 🤖 Learning **Machine Learning** basics with scikit-learn
+- ✍️ Writing about what I learn on [Medium](https://medium.com/@rohitballari7)
+- 💼 Looking for an **entry-level Data Analyst / Junior Data Scientist role**
 
 ---
 
@@ -123,7 +136,7 @@ class RohitBallari:
 
 ## 🤝 Let's Connect
 
-I'm always happy to talk about data, learn from others, or collaborate on projects. If you have an internship opportunity or a dataset worth exploring, feel free to reach out.
+I'm always happy to talk about data, learn from others, or collaborate on projects. If you have an entry-level opening or a dataset worth exploring, feel free to reach out.
 
 <div align="center">
 
