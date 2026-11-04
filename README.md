@@ -17,8 +17,6 @@
   <a href="https://instagram.com/rohi_t_25"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rohitballari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
 </div>
 
 ---
