@@ -23,8 +23,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Rohit Ballari" width="150" src="https://github.com/rohitballari.png?size=300" />
-
 ```python
 class RohitBallari:
     def __init__(self):
